@@ -181,12 +181,12 @@ Vue のコンポーネントをスライド内で直接使用することがで�
 </div>
 
 <!--
-Presenter note with **bold**, *italic*, and ~~striked~~ text.
+プレゼンター用のコメントでは**太字**、*斜体*、~~取り消し線~~が使えます。
 
-Also, HTML elements are valid:
+またHTML要素も使用可能です:
 <div class="flex w-full">
-  <span style="flex-grow: 1;">Left content</span>
-  <span>Right content</span>
+  <span style="flex-grow: 1;">左のコンテンツ</span>
+  <span>右のコンテンツ</span>
 </div>
 -->
 
